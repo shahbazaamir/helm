@@ -38,6 +38,7 @@ Unpack the `helm` binary and add it to your PATH and you are good to go!
 If you want to use a package manager:
 
 - [Homebrew](https://brew.sh/) users can use `brew install helm`.
+- [Winget](https://learn.microsoft.com/en-us/windows/package-manager/) users can use `winget install Helm.Helm`.
 - [Chocolatey](https://chocolatey.org/) users can use `choco install kubernetes-helm`.
 - [Scoop](https://scoop.sh/) users can use `scoop install helm`.
 - [Snapcraft](https://snapcraft.io/) users can use `snap install helm --classic`.
